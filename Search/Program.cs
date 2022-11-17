@@ -1,13 +1,18 @@
-﻿using System.Globalization;
-
-namespace Search
+﻿namespace Search
 {
-    internal class Program
+    internal class Search
     {
         static void Main(string[] args)
         {
+            //catch invalid command
+            if (args.Length < 2)
+            {
+                throw new Exception("Invalid argument. Try: dotnet run --name [NAME]");
+            }
+
             //make sure search is not case sensitive
             string searchTerm = args[1].ToLower();
+
             findMatches(searchTerm);
         }
 
@@ -29,7 +34,7 @@ namespace Search
             Console.WriteLine(numberOfRecords.ToString() + " records found.");
         }
 
-        public static string formatRecord(string[]fields)
+        public static string formatRecord(string[] fields)
         {
             string serialNumber = fields[0].Split(" ")[0];
             return serialNumber.Split("-")[2] + " | "+string.Join(" | ", fields);
