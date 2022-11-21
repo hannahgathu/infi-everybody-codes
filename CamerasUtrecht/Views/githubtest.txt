@@ -1,0 +1,542 @@
+[
+  
+    "id": 1,
+    "Camera": "UTR-CM-501 Neude rijbaan voor Postkantoor",
+    "Latitude": "52.093421",
+    "Longitude": "5.118278"
+  ,
+  
+    "id": 2,
+    "Camera": "UTR-CM-502 Potterstraat / Loeff Berchmakerstraat",
+    "Latitude": "52.093599",
+    "Longitude": "5.118325"
+  ,
+  
+    "id": 3,
+    "Camera": "UTR-CM-503 Neude plein",
+    "Latitude": "52.093448",
+    "Longitude": "5.118536"
+  ,
+  
+    "id": 4,
+    "Camera": "UTR-CM-504 Neude / Schoutenstraat",
+    "Latitude": "52.092995",
+    "Longitude": "5.119088"
+  ,
+  
+    "id": 5,
+    "Camera": "UTR-CM-505 Neude / Drakenburgstraat / Vinkenurgstraat",
+    "Latitude": "52.092843",
+    "Longitude": "5.118351"
+  ,
+  
+    "id": 6,
+    "Camera": "UTR-CM-506 Vinkenburgstraat / Neude",
+    "Latitude": "52.092378",
+    "Longitude": "5.117902"
+  ,
+  
+    "id": 7,
+    "Camera": "UTR-CM-507 Vinkenburgstraat richting Neude",
+    "Latitude": "52.092234",
+    "Longitude": "5.117766"
+  ,
+  
+    "id": 8,
+    "Camera": "UTR-CM-508 Vinkenburgstraat / richting Bakkerbrug",
+    "Latitude": "52.09189",
+    "Longitude": "5.1174"
+  ,
+  
+    "id": 9,
+    "Camera": "UTR-CM-509 Ganzenmarkt / Stadhuisbrug / Oudegracht",
+    "Latitude": "52.09181",
+    "Longitude": "5.11889"
+  ,
+  
+    "id": 10,
+    "Camera": "UTR-CM-510 Korte Minrebroederstraat",
+    "Latitude": "52.092174",
+    "Longitude": "5.119866"
+  ,
+  
+    "id": 11,
+    "Camera": "UTR-CM-511 Stadhuisbrug / Oudkerkhof / Vismarkt",
+    "Latitude": "52.091489",
+    "Longitude": "5.119934"
+  ,
+  
+    "id": 12,
+    "Camera": "UTR-CM-512 Bakkerbrug richting Vinkenburgstraat",
+    "Latitude": "52.091916",
+    "Longitude": "5.117422"
+  ,
+  
+    "id": 13,
+    "Camera": "UTR-CM-513 Oudegracht / Bakkerbrug",
+    "Latitude": "52.09172",
+    "Longitude": "5.117073"
+  ,
+  
+    "id": 14,
+    "Camera": "UTR-CM-514 Bakkerstraat / Oudegracht",
+    "Latitude": "52.091548",
+    "Longitude": "5.117028"
+  ,
+  
+    "id": 15,
+    "Camera": "UTR-CM-515 Steenweg / Bakkerstraat",
+    "Latitude": "52.090872",
+    "Longitude": "5.116621"
+  ,
+  
+    "id": 16,
+    "Camera": "UTR-CM-516 Achter Clarenburg / Voor Clarenburg",
+    "Latitude": "52.090749",
+    "Longitude": "5.115834"
+  ,
+  
+    "id": 17,
+    "Camera": "UTR-CM-517 Steenweg / Mariaplaats",
+    "Latitude": "52.090717",
+    "Longitude": "5.117118"
+  ,
+  
+    "id": 18,
+    "Camera": "UTR-CM-518 Steenweg / Mariastraat",
+    "Latitude": "52.090711",
+    "Longitude": "5.116981"
+  ,
+  
+    "id": 19,
+    "Camera": "UTR-CM-519 Mariastraat / Mariaplaats",
+    "Latitude": "52.090111",
+    "Longitude": "5.11748"
+  ,
+  
+    "id": 20,
+    "Camera": "UTR-CM-521 Mariaplaats / Zadelstraat / Springweg",
+    "Latitude": "52.089596",
+    "Longitude": "5.117706"
+  ,
+  
+    "id": 21,
+    "Camera": "UTR-CM-522 Mariaplaats richting Bison Bowling",
+    "Latitude": "52.089856",
+    "Longitude": "5.116847"
+  ,
+  
+    "id": 22,
+    "Camera": "UTR-CM-523 Mariaplaats thv tuin",
+    "Latitude": "52.089778",
+    "Longitude": "5.11674"
+  ,
+  
+    "id": 23,
+    "Camera": "UTR-CM-524 Mariaplaats richting Mariastraat",
+    "Latitude": "52.089572",
+    "Longitude": "5.115423"
+  ,
+  
+    "id": 24,
+    "Camera": "UTR-CM-526 Catharijnesingel / Moreelsepark",
+    "Latitude": "52.089203",
+    "Longitude": "5.114682"
+  ,
+  
+    "id": 25,
+    "Camera": "UTR-CM-527 Stationsplein / Moreelsepark",
+    "Latitude": "52.0888",
+    "Longitude": "5.113159"
+  ,
+  
+    "id": 26,
+    "Camera": "UTR-CM-529 Van Sijpesteijntunnel",
+    "Latitude": "52.091286",
+    "Longitude": "5.107607"
+  ,
+  
+    "id": 27,
+    "Camera": "UTR-CM-530 Westplein / Van Sijpesteijnkade",
+    "Latitude": "52.090779",
+    "Longitude": "5.10629"
+  ,
+  
+    "id": 28,
+    "Camera": "UTR-CM-531 Jaarbeursplein naast roltrap",
+    "Latitude": "52.088726",
+    "Longitude": "5.107274"
+  ,
+  
+    "id": 29,
+    "Camera": "UTR-CM-532 Catharijnesingel / Smakkelaarsveld",
+    "Latitude": "52.092355",
+    "Longitude": "5.111495"
+  ,
+  
+    "id": 30,
+    "Camera": "UTR-CM-533 Vredenburg / St. Jacobsstraat",
+    "Latitude": "52.093125",
+    "Longitude": "5.114604"
+  ,
+  
+    "id": 31,
+    "Camera": "UTR-CM-534 Vredenburgplein thv Drieharingstraat",
+    "Latitude": "52.091978",
+    "Longitude": "5.114838"
+  ,
+  
+    "id": 32,
+    "Camera": "UTR-CM-535 Drieharingstraat / Oudegracht",
+    "Latitude": "52.092069",
+    "Longitude": "5.116606"
+  ,
+  
+    "id": 33,
+    "Camera": "UTR-CM-536 Viebrug zijde Intersport",
+    "Latitude": "52.093555",
+    "Longitude": "5.116896"
+  ,
+  
+    "id": 34,
+    "Camera": "UTR-CM-537 Breedstraat / Hardebollenstraat",
+    "Latitude": "52.095067",
+    "Longitude": "5.119369"
+  ,
+  
+    "id": 35,
+    "Camera": "UTR-CM-538 Wijde Begijnestraat / Breedstraat",
+    "Latitude": "52.095378",
+    "Longitude": "5.121693"
+  ,
+  
+    "id": 36,
+    "Camera": "UTR-CM-539 Predikherenstraat / Pauwstraat",
+    "Latitude": "52.094612",
+    "Longitude": "5.118559"
+  ,
+  
+    "id": 37,
+    "Camera": "UTR-CM-540 Breedstraat / Predikherenkerkhof",
+    "Latitude": "52.095047",
+    "Longitude": "5.118339"
+  ,
+  
+    "id": 38,
+    "Camera": "UTR-CM-541 Lange Jansstraat / Janskerkhof",
+    "Latitude": "52.093412",
+    "Longitude": "5.120551"
+  ,
+  
+    "id": 39,
+    "Camera": "UTR-CM-542 Janskerkhof / Drift / Nobelstraat",
+    "Latitude": "52.093223",
+    "Longitude": "5.123167"
+  ,
+  
+    "id": 40,
+    "Camera": "UTR-CM-543 Janskerkhof / Boothstraat",
+    "Latitude": "52.09382",
+    "Longitude": "5.122"
+  ,
+  
+    "id": 41,
+    "Camera": "UTR-CM-544-Janskerkhof (plein)",
+    "Latitude": "52.093902",
+    "Longitude": "5.120875"
+  ,
+  
+    "id": 42,
+    "Camera": "UTR-CM-545 Oudkerkhof / Korte Jansstraat",
+    "Latitude": "52.091968",
+    "Longitude": "5.122204"
+  ,
+  
+    "id": 43,
+    "Camera": "UTR-CM-545 Stationsstraat / Stationsplein",
+    "Latitude": "52.091068",
+    "Longitude": "5.110979"
+  ,
+  
+    "id": 44,
+    "Camera": "UTR-CM-547 Voorstraat / Jansveld",
+    "Latitude": "52.094985",
+    "Longitude": "5.120682"
+  ,
+  
+    "id": 45,
+    "Camera": "UTR-CM-548 Oudegracht / Drakenburgstraat",
+    "Latitude": "52.092761",
+    "Longitude": "5.117243"
+  ,
+  
+    "id": 46,
+    "Camera": "UTR-CM-549 Choorstraat / Lijnmarkt / Zadelstraat",
+    "Latitude": "52.09038",
+    "Longitude": "5.120155"
+  ,
+  
+    "id": 47,
+    "Camera": "UTR-CM-550-Daalsesingel / Knipstraat",
+    "Latitude": "52.094148",
+    "Longitude": "5.110061"
+  ,
+  
+    "id": 48,
+    "Camera": "UTR-CM-551-Bemuurde Weerd / Adelaarstraat",
+    "Latitude": "52.098529",
+    "Longitude": "5.114028"
+  ,
+  
+    "id": 49,
+    "Camera": "UTR-CM-552-Catharijnekade / Vredenburg",
+    "Latitude": "52.092883",
+    "Longitude": "5.112022"
+  ,
+  
+    "id": 50,
+    "Camera": "UTR-CM-554-Catharijnesingel / Spoorstraat",
+    "Latitude": "52.089993",
+    "Longitude": "5.113909"
+  ,
+  
+    "id": 51,
+    "Camera": "UTR-CM-555-Moreelsepark thv Inktpot",
+    "Latitude": "52.087803",
+    "Longitude": "5.114752"
+  ,
+  
+    "id": 52,
+    "Camera": "UTR-CM-556-Laan v Puntenburg / Moreelsepark",
+    "Latitude": "52.086608",
+    "Longitude": "5.114757"
+  ,
+  
+    "id": 53,
+    "Camera": "ERROR 1207 Could not read camera information from database",
+    "Latitude": null,
+    "Longitude": null
+  ,
+  
+    "id": 54,
+    "Camera": "UTR-CM-557-Stationsplein / Adama v Scheltemabaan",
+    "Latitude": "52.088382",
+    "Longitude": "5.112054"
+  ,
+  
+    "id": 55,
+    "Camera": "UTR-CM-561-Mineurslaan achterzijde Beatrixgebouw",
+    "Latitude": "52.08806",
+    "Longitude": "5.108808"
+  ,
+  
+    "id": 56,
+    "Camera": "UTR-CM-563-Croeselaan / Mineurslaan thv Rabobank",
+    "Latitude": "52.086525",
+    "Longitude": "5.107843"
+  ,
+  
+    "id": 57,
+    "Camera": "UTR-CM-564-Croeselaan / Mineurslaan thv Beatrixgebouw",
+    "Latitude": "52.087516",
+    "Longitude": "5.106837"
+  ,
+  
+    "id": 58,
+    "Camera": "UTR-CM-566-Croeselaan thv Hojel",
+    "Latitude": "52.0887",
+    "Longitude": "5.105024"
+  ,
+  
+    "id": 59,
+    "Camera": "UTR-CM-567-Leidseweg / Damstraat ",
+    "Latitude": "52.090331",
+    "Longitude": "5.104229"
+  ,
+  
+    "id": 60,
+    "Camera": "UTR-CM-568-Kanonstraat / Kanaalstraat",
+    "Latitude": "52.091618",
+    "Longitude": "5.104592"
+  ,
+  
+    "id": 61,
+    "Camera": "UTR-CM-569-Kanonstraat / Vleutenseweg",
+    "Latitude": "52.092507",
+    "Longitude": "5.104337"
+  ,
+  
+    "id": 62,
+    "Camera": "UTR-CM-570-Vleutenseweg / Damstraat",
+    "Latitude": "52.092638",
+    "Longitude": "5.103288"
+  ,
+  
+    "id": 63,
+    "Camera": "UTR-CM-571-Kanaalstraat / Damstraat",
+    "Latitude": "52.091606",
+    "Longitude": "5.103915"
+  ,
+  
+    "id": 64,
+    "Camera": "UTR-CM-572-Kanaalstraat / Lombokstraat",
+    "Latitude": "52.091224",
+    "Longitude": "5.100404"
+  ,
+  
+    "id": 65,
+    "Camera": "UTR-CM-573-Voorstraat / Drift",
+    "Latitude": "52.095157",
+    "Longitude": "5.12353"
+  ,
+  
+    "id": 66,
+    "Camera": "UTR-CM-574-Lucasbolwerk / Wittevrouwenstraat",
+    "Latitude": "52.094956",
+    "Longitude": "5.12579"
+  ,
+  
+    "id": 67,
+    "Camera": "UTR-CM-575-Lucasbolwerk / Nobelstraat",
+    "Latitude": "52.092939",
+    "Longitude": "5.126292"
+  ,
+  
+    "id": 68,
+    "Camera": "UTR-CM-576-Nijntje pleintje",
+    "Latitude": "52.09629",
+    "Longitude": "5.116527"
+  ,
+  
+    "id": 69,
+    "Camera": "UTR-CM-726-Peltlaan / Cruyffcourt",
+    "Latitude": "52.076805",
+    "Longitude": "5.090487"
+  ,
+  
+    "id": 70,
+    "Camera": "UTR-CM-727-Bevinlaan / De Gasperilaan",
+    "Latitude": "52.076319",
+    "Longitude": "5.089921"
+  ,
+  
+    "id": 71,
+    "Camera": "UTR-CM-728-Bernadottelaan / Trumanlaan",
+    "Latitude": "52.074705",
+    "Longitude": "5.092311"
+  ,
+  
+    "id": 72,
+    "Camera": "UTR-CM-729-Bernadottelaan / Monnetlaan",
+    "Latitude": "52.074358",
+    "Longitude": "5.091474"
+  ,
+  
+    "id": 73,
+    "Camera": "UTR-CM-730-Bernadottelaan / Marshalllaan",
+    "Latitude": "52.074151",
+    "Longitude": "5.090144"
+  ,
+  
+    "id": 74,
+    "Camera": "UTR-CM-731-Bernadottelaan / Auriollaan",
+    "Latitude": "52.073448",
+    "Longitude": "5.088942"
+  ,
+  
+    "id": 75,
+    "Camera": "UTR-CM-732-Bernadottelaan / Rooseveltlaan",
+    "Latitude": "52.073353",
+    "Longitude": "5.087923"
+  ,
+  
+    "id": 76,
+    "Camera": "UTR-CM-733-Vasco Da Gamalaan / Marco Pololaan",
+    "Latitude": "52.067189",
+    "Longitude": "5.09907"
+  ,
+  
+    "id": 77,
+    "Camera": "UTR-CM-741-Prins Bernhardplein",
+    "Latitude": "52.115467",
+    "Longitude": "5.08223"
+  ,
+  
+    "id": 78,
+    "Camera": "UTR-CM-742-Van der Pekstraat / Plesmanlaan",
+    "Latitude": "52.114909",
+    "Longitude": "5.08104"
+  ,
+  
+    "id": 79,
+    "Camera": "UTR-CM-743-Boelesteinlaan - Queeckhovenplein",
+    "Latitude": "52.116606",
+    "Longitude": "5.082279"
+  ,
+  
+    "id": 80,
+    "Camera": "UTR-CM-746-Zwanenvechtlaan / Doornburglaan",
+    "Latitude": "52.114487",
+    "Longitude": "5.089639"
+  ,
+  
+    "id": 81,
+    "Camera": "UTR-CM-751-Bemuurde Weerd / Adelaarstraat",
+    "Latitude": "52.098603",
+    "Longitude": "5.114115"
+  ,
+  
+    "id": 82,
+    "Camera": "UTR-CM-757-ASW / Tiendstraat",
+    "Latitude": "52.097562",
+    "Longitude": "5.105752"
+  ,
+  
+    "id": 83,
+    "Camera": "UTR-CM-758-ASW / Anjelierstraat",
+    "Latitude": "52.09915",
+    "Longitude": "5.102595"
+  ,
+  
+    "id": 84,
+    "Camera": "UTR-CM-759-ASW / Goudsbloemstraat",
+    "Latitude": "52.09975",
+    "Longitude": "5.101403"
+  ,
+  
+    "id": 85,
+    "Camera": "UTR-CM-760-ASW / Mimosastraat",
+    "Latitude": "52.101094",
+    "Longitude": "5.099137"
+  ,
+  
+    "id": 86,
+    "Camera": "UTR-CM-761-ASW / Egelantierstraat",
+    "Latitude": "52.102241",
+    "Longitude": "5.097114"
+  ,
+  
+    "id": 87,
+    "Camera": "UTR-CM-801-Herculeslaan / Herculesplein",
+    "Latitude": "52.079461",
+    "Longitude": "5.143749"
+  ,
+  
+    "id": 88,
+    "Camera": "UTR-CM-802-Stadionlaan",
+    "Latitude": "52.079681",
+    "Longitude": "5.142331"
+  ,
+  
+    "id": 89,
+    "Camera": "UTR-CM-803-Waterlinieweg",
+    "Latitude": "52.078233",
+    "Longitude": "5.141773"
+  ,
+  
+    "id": 90,
+    "Camera": "",
+    "Latitude": null,
+    "Longitude": null
+  
+]
