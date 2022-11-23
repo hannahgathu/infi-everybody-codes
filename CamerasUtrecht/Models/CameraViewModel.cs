@@ -2,6 +2,7 @@
 {
     public class CameraViewModel
     {
+        public List<CameraRecord> AllRecords { get; set; }
         public List<CameraRecord> DivByThreeAndFive { get; set; }
         public List<CameraRecord> DivByThree { get; set; }
         public List<CameraRecord> DivByFive { get; set; }

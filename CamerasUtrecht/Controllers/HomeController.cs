@@ -63,6 +63,7 @@ namespace CamerasUtrecht.Controllers
 
             //populate viewmodel
             var viewModel = new CameraViewModel();
+            viewModel.AllRecords = cameras;
             viewModel.DivByThreeAndFive = divByThreeAndFive;
             viewModel.DivByFive = divByFive;
             viewModel.DivByNone = divByNone;
@@ -115,11 +116,6 @@ namespace CamerasUtrecht.Controllers
                 }
                 return records;
             }
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

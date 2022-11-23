@@ -10,4 +10,12 @@
     <PackageReference Include="CsvHelper" Version="30.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Content\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\video-camera-icon.png" />
+  </ItemGroup>
+
 </Project>
