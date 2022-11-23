@@ -7,7 +7,6 @@ Project name is "Search". Search for a camera record with the command "dotnet ru
 Project name is CamerasUtrecht. Simply run the app in your browser of choice.
 
 # Assignment
-# Keep Talking and Everybody Codes
 
 Een repository om te laten zien hoe jij code schrijft en over code denkt.
 Een startpunt voor een goed gesprek over ons vak!
