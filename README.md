@@ -1,3 +1,12 @@
+# Instructions
+
+## CLI Search
+Project name is "Search". Search for a camera record with the command "dotnet run --name [NAME]". Search is case insensitive.
+
+## Web App
+Project name is CamerasUtrecht. Simply run the app in your browser of choice.
+
+## Assignment:
 # Keep Talking and Everybody Codes
 
 Een repository om te laten zien hoe jij code schrijft en over code denkt.
